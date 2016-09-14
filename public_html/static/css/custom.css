@@ -1,0 +1,224 @@
+/* in use */
+.auction2 {
+    padding-left: 0px;
+}
+
+body {
+    overflow-x:hidden;
+    background-color: rgb();
+    color: #000;
+}
+
+.my-panel-heading {
+    background-color: rgba(144, 114, 224, 0.83) !important;
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+footer {
+    background-color: #eee;
+    color: black;
+}
+
+.my-body {
+    max-width: 75%;
+}
+
+.my-panel { 
+    background-color: rgba(255, 255, 255, 1) !important;
+    border-color: #7c59dd !important;
+    border: 2px, solid !important;
+}
+
+.my-nav {
+    background-color: #45ca73 !important;
+    color: rgb(255,255,255) !important;
+    border-color: rgba(255,255,255,0);
+}
+
+.my-nav-white {
+	color: #eee;
+}
+
+.myfooter {
+      margin: 0 auto;
+    width: 100%;
+    object-position: bottom;
+}
+/* ozadje za text boxe-sestavi skupno seamless obliko */
+
+.my-upload-bg-top {
+    background-color: rgb: 255, 184, 105;
+    border-top-right-radius: 15px;
+}
+
+.my-upload-bg-mid {
+    background-color: rgb: 255, 184, 105;
+}
+
+.my-upload-bg-bot {
+    background-color: rgb: 255, 184, 105;
+    border-bottom-left-radius: 15px;
+}
+
+/* ---------------------------------------------------- */
+
+.my-mainbox-title {
+    background-color: rgb(255, 184, 114)
+}
+.my-sidebox-title {
+    background-color: rgb(255, 242, 229) 
+}
+.my-nav-bg {
+    background-color: rgb(189, 255, 206);
+
+}
+.my-main-bg {
+    background-color: rgb(189, 255, 206);
+}
+
+.my-header-bg {
+    background-color: rgb(189, 255, 206);   
+}
+
+.my-sidebox-main-bg {
+ background-color: rgb(191, 245, 218); 
+}
+.my-main-box-bg {
+    background-color: rgb(255, 193, 131);
+}
+.my-login-title-box {
+    border-bottom-left-radius: 35px;
+    border-bottom-color: black;
+    border-left-color: black;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-radius: 2px;
+}
+.my-banner {
+    border-color: transparent;
+    background-image: image(colors-banner.jpg);
+}
+.my-single-color-bottom {
+    background-color: rgb(59,135,188);
+    
+}.padding-1 {padding: 1%;}
+.padding-2 {padding: 2%;}
+.padding-3 {padding: 3%;}
+.padding-4 {padding: 4%;}
+.padding-5 {padding: 5%;}
+.padding-6 {padding: 6%;}
+.padding-7 {padding: 7%;}
+.padding-8 {padding: 8%;}
+.padding-9 {padding: 9%;}
+.padding-10 {padding: 10%;}
+.padding-11 {padding: 11%;}
+.padding-12 {padding: 12%;}
+.padding-13 {padding: 13%;}
+.padding-14 {padding: 14%;}
+.padding-15 {padding: 15%;}
+.padding-16 {padding: 16%;}
+.padding-17 {padding: 17%;}
+.padding-18 {padding: 18%;}
+.padding-19 {padding: 19%;}
+
+.bg-info {background-color: #bce8f1;}
+.bg-success {background-color: #d6e9c6;}
+
+.opacity-1 {opacity: 0.1; filter: alpha(opacity=10); /* For IE8 and earlier */ }
+.opacity-2 {opacity: 0.2; filter: alpha(opacity=20); /* For IE8 and earlier */ }
+.opacity-3 {opacity: 0.3; filter: alpha(opacity=30); /* For IE8 and earlier */ }
+.opacity-4 {opacity: 0.4; filter: alpha(opacity=40); /* For IE8 and earlier */ }
+.opacity-5 {opacity: 0.5; filter: alpha(opacity=50); /* For IE8 and earlier */ }
+.opacity-6 {opacity: 0.6; filter: alpha(opacity=60); /* For IE8 and earlier */ }
+.opacity-7 {opacity: 0.7; filter: alpha(opacity=70); /* For IE8 and earlier */ }
+.opacity-8 {opacity: 0.8; filter: alpha(opacity=80); /* For IE8 and earlier */ }
+.opacity-9 {opacity: 0.9; filter: alpha(opacity=90); /* For IE8 and earlier */ }
+.auction2 {
+    padding-left: 0px;
+}
+
+.negMarPad {
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
+
+.big {
+    font-size:112%;
+}
+.bigger {
+    font-size:125%;
+}
+
+.robotoThin {
+    font-family:"Roboto-Thin";
+    src: url("Roboto-Thin.ttf") /* TTF file for CSS3 browsers */
+}
+
+.removeShadow {
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+}
+.forceLightWhiteFont {
+    color: #f8f8f8 !important;
+}
+
+
+
+/* hacks */
+.bodyHack {
+    overflow-x: hidden;
+}
+.footerHack {
+    width: 130%;
+    margin-left: -1%;
+    max-width: 102%;
+}
+.bottomHack {
+    position:absolute;
+    bottom: 0px;
+}
+@media screen and (max-height: 2200px) {
+    .stretchFooter {
+        height:1500px;
+        vertical-align: middle;
+
+    }
+    .stretchFooter::before{
+        content: '\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a\a' attr(title);
+        white-space: pre;
+    }
+}
+@media screen and (max-height: 1450px) {
+    .stretchFooter {
+        height:600px;
+        vertical-align: middle;
+
+    }
+    .stretchFooter::before{
+        content: '\a\a\a\a\a\a' attr(title);
+        white-space: pre;
+    }
+}
+@media screen and (max-height: 1080px) {
+    .stretchFooter {
+        height:300px;
+        vertical-align: middle;
+
+    }
+    .stretchFooter::before{
+        content: '\a\a\a\a\a' attr(title);
+        white-space: pre;
+    }
+}
+@media screen and (max-height: 900px) {
+    .stretchFooter {
+        height:280px;
+        vertical-align: middle;
+
+    }
+    .stretchFooter::before{
+        content: '\a\a\a' attr(title);
+        white-space: pre;
+    }
+}

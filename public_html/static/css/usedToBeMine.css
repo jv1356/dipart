@@ -1,0 +1,158 @@
+/* in use */
+.auction2 {
+    padding-left: 0px;
+}
+
+.my-body {
+    max-width: 75%;
+}
+
+.myfooter {
+      margin: 0 auto;
+    padding-top: 20px;
+    width: 100%;
+    object-position: bottom;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#3b87bc+0,596a72+100 */
+background: rgb(59,135,188); /* Old browsers */
+background: -moz-linear-gradient(top,  rgb(37, 45, 51) 0%, rgb(57, 70, 76) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgb(29, 33, 37) 0%,rgb(89,106,114) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgb(59,135,188) 0%,rgb(89,106,114) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b87bc', endColorstr='#596a72',GradientType=0 ); /* IE6-9 */
+
+}
+/* ozadje za text boxe-sestavi skupno seamless obliko */
+
+.my-upload-bg-top {
+    background-color: rgb: 255, 184, 105;
+    border-top-right-radius: 15px;
+}
+
+.my-upload-bg-mid {
+    background-color: rgb: 255, 184, 105;
+}
+
+.my-upload-bg-bot {
+    background-color: rgb: 255, 184, 105;
+    border-bottom-left-radius: 15px;
+}
+
+/* ---------------------------------------------------- */
+
+.my-mainbox-title {
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b4e391+8,439b14+25,b4e391+100&0.18+0,1+13,1+40 */
+background: -moz-linear-gradient(-45deg,  rgba(180,227,145,0.18) 0%, rgba(180,227,145,0.68) 8%, rgba(147,206,108,1) 13%, rgba(67,155,20,1) 25%, rgba(90,169,45,1) 40%, rgba(180,227,145,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  rgba(180,227,145,0.18) 0%,rgba(180,227,145,0.68) 8%,rgba(147,206,108,1) 13%,rgba(67,155,20,1) 25%,rgba(90,169,45,1) 40%,rgba(180,227,145,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  rgba(180,227,145,0.18) 0%,rgba(180,227,145,0.68) 8%,rgba(147,206,108,1) 13%,rgba(67,155,20,1) 25%,rgba(90,169,45,1) 40%,rgba(180,227,145,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2eb4e391', endColorstr='#b4e391',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+
+}
+.my-sidebox-title {
+ /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b4e391+0,439b14+69,439b14+69,b4e391+92&1+9,1+28,1+78,0.18+100 */
+background: -moz-linear-gradient(-45deg,  rgba(180,227,145,1) 0%, rgba(165,218,129,1) 9%, rgba(134,198,94,1) 28%, rgba(67,155,20,1) 69%, rgba(111,183,69,1) 78%, rgba(180,227,145,0.48) 92%, rgba(180,227,145,0.18) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  rgba(180,227,145,1) 0%,rgba(165,218,129,1) 9%,rgba(134,198,94,1) 28%,rgba(67,155,20,1) 69%,rgba(111,183,69,1) 78%,rgba(180,227,145,0.48) 92%,rgba(180,227,145,0.18) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  rgba(180,227,145,1) 0%,rgba(165,218,129,1) 9%,rgba(134,198,94,1) 28%,rgba(67,155,20,1) 69%,rgba(111,183,69,1) 78%,rgba(180,227,145,0.48) 92%,rgba(180,227,145,0.18) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4e391', endColorstr='#2eb4e391',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  
+}
+.my-nav-bg {
+background-color: rgb(250, 250, 250);
+
+}
+.my-main-bg {
+ 
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#88bde2+0,3b87bc+100;standard-bg-gradient */
+    
+    background: rgb(136,189,226); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgb(136,189,226) 0%, rgb(59,135,188) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgb(136,189,226) 0%,rgb(59,135,188) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgb(136,189,226) 0%,rgb(59,135,188) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#88bde2', endColorstr='#3b87bc',GradientType=0 ); /* IE6-9 */
+}
+
+.my-header-bg {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#9acff5+2,88bde2+100 */
+    background: rgb(154,207,245); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgb(154,207,245) 2%, rgb(136,189,226) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgb(154,207,245) 2%,rgb(136,189,226) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgb(154,207,245) 2%,rgb(136,189,226) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9acff5', endColorstr='#88bde2',GradientType=0 ); /* IE6-9 */
+
+}
+
+.my-sidebox-main-bg {
+ background-color: rgb(191, 245, 218); 
+}
+.my-main-box-bg {
+    background-color: rgb: ;
+    background-blend-mode: overlay;
+    opacity: 70%;
+    border: 5px 5px 3px slategray;
+}
+.my-login-title-box {
+    border-bottom-left-radius: 35px;
+    border-bottom-color: black;
+    border-left-color: black;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-radius: 2px;
+}
+.my-banner {
+    border-color: transparent;
+    background-image: image(colors-banner.jpg);
+}
+.my-single-color-bottom {
+    color: rgb: 59,135,188;
+    
+}.padding-1 {padding: 1%;}
+.padding-2 {padding: 2%;}
+.padding-3 {padding: 3%;}
+.padding-4 {padding: 4%;}
+.padding-5 {padding: 5%;}
+.padding-6 {padding: 6%;}
+.padding-7 {padding: 7%;}
+.padding-8 {padding: 8%;}
+.padding-9 {padding: 9%;}
+.padding-10 {padding: 10%;}
+.padding-11 {padding: 11%;}
+.padding-12 {padding: 12%;}
+.padding-13 {padding: 13%;}
+.padding-14 {padding: 14%;}
+.padding-15 {padding: 15%;}
+.padding-16 {padding: 16%;}
+.padding-17 {padding: 17%;}
+.padding-18 {padding: 18%;}
+.padding-19 {padding: 19%;}
+
+.bg-info {background-color: #bce8f1;}
+.bg-success {background-color: #d6e9c6;}
+
+.opacity-1 {opacity: 0.1; filter: alpha(opacity=10); /* For IE8 and earlier */ }
+.opacity-2 {opacity: 0.2; filter: alpha(opacity=20); /* For IE8 and earlier */ }
+.opacity-3 {opacity: 0.3; filter: alpha(opacity=30); /* For IE8 and earlier */ }
+.opacity-4 {opacity: 0.4; filter: alpha(opacity=40); /* For IE8 and earlier */ }
+.opacity-5 {opacity: 0.5; filter: alpha(opacity=50); /* For IE8 and earlier */ }
+.opacity-6 {opacity: 0.6; filter: alpha(opacity=60); /* For IE8 and earlier */ }
+.opacity-7 {opacity: 0.7; filter: alpha(opacity=70); /* For IE8 and earlier */ }
+.opacity-8 {opacity: 0.8; filter: alpha(opacity=80); /* For IE8 and earlier */ }
+.opacity-9 {opacity: 0.9; filter: alpha(opacity=90); /* For IE8 and earlier */ }
+.auction2 {
+    padding-left: 0px;
+}
+
+.negMarPad {
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
+
+.big {
+    font-size:112%;
+}
+.bigger {
+    font-size:125%;
+}
+
+.robotoThin {
+    font-family:"Roboto-Thin";
+    src: url("Roboto-Thin.ttf") /* TTF file for CSS3 browsers */
+}
